@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+requests
+nltk
+streamlit-folium
+folium
+geopandas
+altair
+beautifulsoup4
+stanza
+python-dotenv
